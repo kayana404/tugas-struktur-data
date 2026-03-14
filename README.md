@@ -98,3 +98,4 @@ saya dapat mengetahui cara mencari nilai tinggi(max) dan rendah(min),dan menghit
 
 saya dapat memahami cara membuat grafik di python yaitu menggunakkan  matplotlib.pyplot as plt.
 
+saya juga dapat memahami cara melakukkan perulangan di python sama seperti bahasa c yaitu menggunakkan for dan saya juga belajar cara menyimpan data ke dalam array di python yang menggunakkan fungsi append().
